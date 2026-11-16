@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Firebase config (contains project API keys) and release builds
+app/google-services.json
+*.apk
+*.aab

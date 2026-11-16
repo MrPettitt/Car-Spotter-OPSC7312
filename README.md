@@ -1,13 +1,14 @@
-# ReadMe
+# CarSpotter
 
+> **Archived 2024 group project.** The maintained version of this app is [OPSC7312-Car-Spotter](https://github.com/MrPettitt/OPSC7312-Car-Spotter).
 # CARSPOTTER Group Members:
 
-### ST10090394 - Richard Pettitt
-### ST10133787 - Ntando Ngubeni
-### ST10090100 - Phemelo Sebopela
-### ST10143427 - Azile Nzimande
-### ST10050374 - Chelsea Lennet
-### ST10090454 - Muaaz Jassat
+### Richard Pettitt
+### Ntando Ngubeni
+### Phemelo Sebopela
+### Azile Nzimande
+### Chelsea Lennet
+### Muaaz Jassat
 
 # Youtube Link:
 https://youtu.be/0jAEoab_lcU : Part 2
@@ -22,7 +23,7 @@ To run the project, ensure you have the following installed:
 
 - **Android Studio (latest version)**
 - **JDK 11+**
-- **Firebase** configuration (Google Services JSON file)
+- **Firebase** configuration: download your own `google-services.json` from the Firebase console and place it in `app/` (it is git-ignored and not included in this repo)
 - **Google Maps API Key**
 - **Git** installed locally
 
@@ -35,7 +36,7 @@ To run the project, ensure you have the following installed:
    Open your terminal or command prompt and run the following command:
 
    ```bash
-   git clone https://github.com/ST10090394/Car-Spotter-OPSC7312.git
+   git clone https://github.com/MrPettitt/Car-Spotter-OPSC7312.git
    cd Car-Spotter-OPSC7312
 
 # App Features:
@@ -62,7 +63,7 @@ To run the project, ensure you have the following installed:
 •	Access your car spotting history at any time.  
 •	Review past spottings, share them with fellow spotters, and track your progress as you continue your carspotting journey.
 ## Why CARSPOTTER?
-•	Connect with Cars: CARSPOTTER brings you closer to the wonders of the car world. Explore the avian diversity in your area and beyond.  
+•	Connect with Cars: CARSPOTTER brings you closer to the wonders of the car world. Explore the car scene in your area and beyond.  
 •	User-Friendly Interface: The app is designed for all levels of carspotters, from beginners to experts. Its intuitive design ensures a seamless and enjoyable experience.  
 •	Community Sharing: Connect with a community of fellow spotters, share your spottings, and discover new car based on shared experiences.  
 •	Educational Resource: CARSPOTTER is a valuable educational resource. Learn more about cars, their parts, and engines through our integrated database.
